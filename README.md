@@ -18,7 +18,7 @@
     🔹
     <a href="https://github.com/TG922/TG922.github.io/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/TG922.github.io/issues">Request Feature</a>
+    <a href="https://github.com/TG922/TG922.github.io/issues">Request Feature</a>
 </h3>
 
 
