@@ -11,6 +11,7 @@
     <a href="https://github.com/TG922/TG922.github.io/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
     <a href="https://github.com/TG922/Portfolio/issues">Request Feature</a>
+    </h3>
 <br/>
 
                                                 
@@ -25,7 +26,7 @@
 </center>
 
 
-</h3>
+
 
 ## TL;DR
 
