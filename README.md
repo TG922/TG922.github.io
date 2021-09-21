@@ -6,15 +6,14 @@
   <img alt="Demo" src="./Images/readme-img1.PNG" />
 </div>
 
-    <h3 align="center">
+<br/>
+                                                
+<h3 align="center">
     🔹
     <a href="https://github.com/TG922/TG922.github.io/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
     <a href="https://github.com/TG922/Portfolio/issues">Request Feature</a>
-    </h3>
-<br/>
-
-                                                
+</h3>
 <center>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
