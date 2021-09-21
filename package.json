@@ -1,5 +1,6 @@
 {
   "name": "react-protfolio",
+  "homepage": "https://TG922.github.io/REACTJS_PORTFOLIO",  //https://myusername.github.io/my-app
   "version": "0.1.0",
   "private": true,
   "dependencies": {
