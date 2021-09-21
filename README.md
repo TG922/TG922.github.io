@@ -1,4 +1,4 @@
-﻿<h2 align="center">
+<h2 align="center">
   Portfolio Website - v2.0<br/>
   <a href="https://TG922.github.io/ target="_blank">Live Demo</a>
 </h2>
