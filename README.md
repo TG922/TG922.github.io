@@ -3,7 +3,7 @@
   <a href="https://TG922.github.io/>Live Demo</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img.PNG" />
+  <img alt="Demo" src="./Images/readme-img1.PNG" />
 </div>
 
 <br/>
