@@ -16,7 +16,6 @@
 </h3>
 
 
-## TL;DR
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [TG922](https://github.com/TG922). Thanks!
 
