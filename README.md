@@ -22,8 +22,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 ## Built With
 
 My personal portfolio <a href="https://TG922.github.io/" target="_blank">Live Demo</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
-                                                                        
+                                                                
 ##Tech Stack                                                                        
 
 This project was built using these technologies.
