@@ -236,9 +236,9 @@ footer {
   font-family: "Poppins", sans-serif;
 }
 
-.about .title::after {
+/* .about .title::after {
   content: " who am i ";
-}
+} */
 
 .about .about-content,
 .skills .skills-content,
@@ -313,7 +313,7 @@ footer {
 .projects .title::after {
   background: #111111;
   color: white;
-  content: "i work with";
+  /* content: "i work with"; */
 }
 
 .skills .skills-content .card {
@@ -505,9 +505,9 @@ footer {
 
 /* Styling Contact Section */
 
-.contact .title::after {
+/* .contact .title::after {
   content: "get in touch";
-}
+} */
 
 .contact .contact-content .column {
   width: calc(50% - 30px);
