@@ -2,12 +2,12 @@
  My Portfolio Website <a href="https://TG922.github.io/" target="_blank">Live Demo</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./images/readme-img.PNG" />
+  <img alt="Demo" src="./images/readme_img.PNG" />
 </div>
  
  <br>
  <div align="center">
-  <img alt="Demo" src="./images/readme-img2.PNG" />
+  <img alt="Demo" src="./images/readme_img2.PNG" />
 </div>
 
                                                 
