@@ -7,7 +7,7 @@
  
  <br>
  <div align="center">
-  <img alt="Demo" src=".iImages/readme-img2.PNG" />
+  <img alt="Demo" src="./images/readme-img2.PNG" />
 </div>
 
                                                 
