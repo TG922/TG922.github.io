@@ -35,7 +35,6 @@ This project was built using these technologies.
 - HTML
 - CSS
 - JS
-- PHP
 - VSCODE
 
 ## Usage Instructions
