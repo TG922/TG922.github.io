@@ -1,4 +1,17 @@
-<h2 align="center"><br>
+ <h2 align="center"><br>
+ My Portfolio Website <a href="https://TG922.github.io/" target="_blank">Live Demo</a>
+</h2>
+
+<div align="center">
+  <img alt="Demo" src="./images/readme_img.PNG" />
+</div>
+ 
+ <br>
+ <div align="center">
+  <img alt="Demo" src="./images/readme_img2.PNG" />
+</div>
+
+<!-- <h2 align="center"><br>
  My Portfolio Website <a href="https://TG922.github.io/" target="_blank">Live Demo</a>
 </h2>
 
@@ -11,8 +24,11 @@
   <img alt="Demo" src="./images/readme_img2.PNG" />
 </div>
                                                 
- <br/>
-                                                
+ <br/> -->
+ 
+ 
+ 
+ 
 <h3 align="center">
     🔹
     <a href="https://github.com/TG922/TG922.github.io/issues">Report Bug</a> &nbsp; &nbsp;
