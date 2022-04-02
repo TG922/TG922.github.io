@@ -1,6 +1,7 @@
 <h2 align="center"><br>
  My Portfolio Website <a href="https://TG922.github.io/" target="_blank">Live Demo</a>
 </h2>
+
 <div align="center">
   <img alt="Demo" src="./images/readme_img.PNG" />
 </div>
@@ -9,7 +10,6 @@
  <div align="center">
   <img alt="Demo" src="./images/readme_img2.PNG" />
 </div>
-
                                                 
  <br/>
                                                 
@@ -19,7 +19,6 @@
     🔹
     <a href="https://github.com/TG922/TG922.github.io/issues">Request Feature</a>
 </h3>
-
 
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [TG922](https://github.com/TG922). Thanks!
