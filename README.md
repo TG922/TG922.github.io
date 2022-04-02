@@ -11,8 +11,8 @@
   <img alt="Demo" src="./images/readme_img2.PNG" />
 </div>
 
-<!-- <h2 align="center"><br>
- My Portfolio Website <a href="https://TG922.github.io/" target="_blank">Live Demo</a>
+<h2 align="center"><br>
+ My Portfolio Website(Old Version)<a href="https://TG922.github.io/" target="_blank">Live Demo</a>
 </h2>
 
 <div align="center">
@@ -24,7 +24,7 @@
   <img alt="Demo" src="./images/readme_img2.PNG" />
 </div>
                                                 
- <br/> -->
+ <br/>
  
  
  
