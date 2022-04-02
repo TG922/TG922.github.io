@@ -1,6 +1,5 @@
 <h2 align="center"><br>
- My Portfolio Website <a href="https://tg-portfolio.github.io
-/" target="_blank">Live Demo</a>
+ My Portfolio Website <a href="https://TG922.github.io/" target="_blank">Live Demo</a>
 </h2>
 
 <div align="center">
