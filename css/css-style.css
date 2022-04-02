@@ -6,7 +6,10 @@
   padding: 0;
   text-decoration: none;
   --yellow-color: #af1be9;
+  /* --yellow-color: linear-gradient(fuchsia, purple); */
   --dark-yellow: #af1be9;
+  /* --dark-yellow: #af1be9; */
+  /* --dark-yellow: linear-gradient(fuchsia, purple); */
   /* #af1be9 */
   /* e91b59d2 */
 }
@@ -18,18 +21,20 @@ html {
 /* Styling Scroll bar  */
 
 ::-webkit-scrollbar {
-  width: 30px;
+  width: 18px;
 }
 ::-webkit-scrollbar-track {
-  background: #f1f1f1;
+  background: rgb(142, 133, 133);
 }
 ::-webkit-scrollbar-thumb {
-  background: var(--dark-yellow);
+  /* background: var(--dark-yellow); */
+  background: linear-gradient(fuchsia,yellow);
   border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--yellow-color);
+  /* background: var(--yellow-color); */
+  background: linear-gradient(fuchsia, purple);
   border-radius: 10px;
 }
 
@@ -52,7 +57,8 @@ html {
 
 .navbar.sticky {
   padding: 10px 0;
-  background: var(--dark-yellow);
+  /* background: var(--dark-yellow); */
+  background: linear-gradient(fuchsia, purple);
 }
 
 .navbar .max-width {
@@ -91,7 +97,9 @@ html {
 }
 
 .navbar .menu li a:hover {
-  color: var(--yellow-color);
+  /* color: var(--yellow-color); */
+  color: purple;
+  
 }
 
 .navbar.sticky .menu li a:hover {
@@ -107,7 +115,7 @@ html {
   font-size: 20px;
 }
 
-.scroll-up-btn {
+/* .scroll-up-btn {
   background: var(--yellow-color);
   bottom: 10px;
   border-radius: 6px;
@@ -124,13 +132,47 @@ html {
   transition: all 0.3s ease;
   width: 42px;
   z-index: 9999;
+} */
+
+.scroll-up-btn{
+  bottom: 10px;
+  border-radius: 6px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 30px;
+  background:linear-gradient(purple, fuchsia);
+  height: 45px;
+  line-height: 45px;
+  opacity: 0;
+  position: fixed;
+  pointer-events: none;
+  right: 30px;
+  text-align: center;
+  transition: all 0.3s ease;
+  width: 42px;
+  z-index: 9999;
 }
 
-.scroll-up-btn.show {
+.scroll-up-btn:hover{
+  background:linear-gradient(yellow, fuchsia);
+}
+/* .scroll-up-btn.show {
+  bottom: 30px;
+  opacity: 1;
+  pointer-events: auto;
+
+} */
+
+.scroll-up-btn.show{
   bottom: 30px;
   opacity: 1;
   pointer-events: auto;
 }
+
+.scroll-up-btn:hover{
+  filter: brightness(90%);
+}
+
 
 /* Styling Home Section */
 
@@ -166,10 +208,11 @@ html {
 }
 
 .home .home-content .text-3 span {
-  color: var(--yellow-color);
+  /* color: var(--yellow-color); */
+  color: purple;
   font-weight: 500;
 }
-
+/*Hire Me*/
 .home .home-content a {
   background: var(--yellow-color);
   border-radius: 6px;
@@ -293,14 +336,14 @@ footer {
 
 .about .about-content .right a:hover {
   background: none;
-  color: black;
+  color: fuchsia;
 }
 
 /* Styling Skills section */
 
 .skills,
 .projects {
-  background: #111111;
+  background: hsl(0, 0%, 7%);
   color: white;
 }
 
@@ -317,7 +360,7 @@ footer {
 }
 
 .skills .skills-content .card {
-  background: #222;
+  background:purple;
   border-radius: 6px;
   cursor: pointer;
   margin-bottom: 10px;
@@ -328,7 +371,9 @@ footer {
 }
 
 .skills .skills-content .card:hover {
-  background: var(--dark-yellow);
+  /* background: var(--dark-yellow); */
+  /* background-color: fuchsia; */
+  background: rgb(145, 141, 141);
 }
 
 .skills .skills-content .card .box {
@@ -362,9 +407,9 @@ footer {
   background: #000;
 }
 
-.experience .title::after {
+/* .experience .title::after {
   content: "experience";
-}
+} */
 
 .experience .experience-content .container {
   align-items: center;
@@ -388,7 +433,7 @@ footer {
 }
 
 .experience .experience-content .container .timeline ul li {
-  background-color: #333;
+  background-color: rgb(128, 123, 123);
   border-radius: 10px;
   color: #fff;
   margin-bottom: 20px;
@@ -414,19 +459,20 @@ footer {
 
 .experience .experience-content .container .timeline .timeline-content .date {
   font-size: 13px;
-  font-weight: 300;
+  font-weight: 700;
   letter-spacing: 2px;
   margin-bottom: 10px;
 }
 
 /* Styling Projects Section */
 
-.projects .title::after {
+/* .projects .title::after {
   content: "my work";
-}
+} */
 
 .projects .carousel .card {
-  background: #222;
+  /* background: rgb(145, 141, 141); */
+  background: linear-gradient(fuchsia, purple);
   border-radius: 6px;
   padding: 25px 35px;
   text-align: center;
@@ -434,7 +480,9 @@ footer {
 }
 
 .projects .carousel .card:hover {
-  background: var(--dark-yellow);
+  /* background: var(--dark-yellow); */
+  /* background: linear-gradient(fuchsia, purple); */
+  background: rgb(145, 141, 141);
 }
 
 .projects .carousel .card .box {
@@ -446,7 +494,8 @@ footer {
 }
 
 .projects .carousel .card .box p span a {
-  color: var(--yellow-color);
+  /* color: var(--yellow-color); */
+  color:yellow;
   text-decoration: none;
 }
 
@@ -455,7 +504,7 @@ footer {
 }
 
 .projects .carousel .card:hover p span a {
-  color: #222;
+  color: greenyellow;
 }
 
 .projects .carousel .card .text {
@@ -465,7 +514,7 @@ footer {
 }
 
 .projects .carousel .card img {
-  border: 3px solid #000;
+  border: 7px solid black;
   border-radius: 50%;
   height: 150px;
   object-fit: cover;
@@ -474,8 +523,8 @@ footer {
 }
 
 .projects .carousel .card:hover img {
-  border-width: 1px;
-  border-color: #fff;
+  border-width: 3px;
+  border-color: red;
 }
 
 .owl-dots {
@@ -539,8 +588,13 @@ footer {
 
 .contact .contact-content .row i,
 .contact .right .fields .field i {
-  color: #333;
+  color: #333; 
   font-size: 25px;
+}
+
+.contact .contact-content .row i{
+  font-size: 25px;
+  color: yellowgreen;
 }
 
 .contact .contact-content .info .head {
@@ -574,7 +628,7 @@ footer {
 }
 
 .contact .right .fields .field i span a {
-  color: #333;
+  color: red;
   text-decoration: none;
 }
 
@@ -671,7 +725,7 @@ footer {
   }
 
   .navbar .menu {
-    background: black;
+    background: url("../images/img-banner2.jpg") no-repeat center;
     height: 100vh;
     left: -100%;
     padding-top: 90px;
@@ -800,7 +854,8 @@ footer {
   }
 
   .experience .experience-content .container .timeline ul li:hover::after {
-    background-color: var(--yellow-color);
+    /* background-color: var(--yellow-color); */
+    background-color: fuchsia;
   }
 
   .experience .experience-content .container .timeline .timeline-content .date {
@@ -839,4 +894,84 @@ footer {
   .home .home-content .text-3 {
     font-size: 27px;
   }
+}
+
+
+
+
+/*right form contact page*/
+
+.contact .right form .fields{
+  display: flex;
+}
+.contact .right form .field,
+.contact .right form .fields .field{
+  height: 45px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+.contact .right form .textarea{
+  height: 80px;
+  width: 100%;
+}
+.contact .right form .name{
+  margin-right: 10px;
+}
+
+.contact .right form .field input,
+.contact .right form .textarea textarea{
+    height: 100%;
+    width: 100%;
+    border: 1px solid lightgrey;
+    border-radius: 6px;
+    outline: none;
+    padding: 0 15px;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+    transition: all 0.3s ease;}
+
+
+.contact .right form .field input:focus,
+.contact .right form .textarea textarea:focus{
+    border-color: #b3b3b3;
+}
+.contact .right form .textarea textarea{
+  padding-top: 10px;
+  resize: none;
+}
+.contact .right form .button-area{
+  display: flex;
+  align-items: center;
+}
+
+.right form .button-area button{
+  color: yellow;
+  display: block;
+  width: 160px!important;
+  height: 45px;
+  outline: none;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+  flex-wrap: nowrap;
+  background: purple;
+  border: 3px solid #333;
+  transition: all 0.3s ease;
+}
+
+.right form .button-area button:hover{
+  color: purple;
+  background: yellow;
+  border: 3px solid green;
+}
+
+.scroll-up-btn{
+  right: 25px;
+  bottom: 25px;
+  height: 42px;
+  width: 42px;
+  border-radius:30px;
+  font-size: 23px;
+  line-height: 38px;
 }
