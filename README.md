@@ -16,7 +16,7 @@
 </div>
 
 <h2 align="center"><br>
- My Portfolio Website(Old Version)
+ My Portfolio Website <a href="https://github.com/TG922/tg-portfolio" target="_blank">(Old Version)</a> 
 </h2>
 
 <div align="center">
