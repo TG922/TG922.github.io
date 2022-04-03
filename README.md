@@ -65,10 +65,6 @@ You will find all the components used and you can edit your information accordin
 ![GitHub forks](https://img.shields.io/github/forks/TG922/Portfolio?color=red&logo=github&style=for-the-badge)-->
 
 </center>
-
                                                                         
 Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/TG922" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
-
 
