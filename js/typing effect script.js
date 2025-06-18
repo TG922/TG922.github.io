@@ -28,15 +28,15 @@ $(document).ready(function() {
 
     // typing animation
     var typed = new Typed(".typing", {
-        strings: ["Web Developer","Open-Source Contributor","Campus Ambassador at IIT Bombay","CSE Student"],
-        typeSpeed: 90,
-        backSpeed: 70,
+        strings: ["SIH '22 Team Lead", "Member at Google Developers Group LKO", "Web Developer","Contributor @e-boothathon04", "Open-Source Contributor","Campus Ambassador at IIT Bombay","CSE Student"],
+        typeSpeed: 40,
+        backSpeed: 40,
         loop: true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["Web Developer","Open-Source Contributor","Campus Ambassador at IIT Bombay","CSE Student"],
-        typeSpeed: 100,
-        backSpeed: 70,
+        strings: ["SIH '22 Team Lead", "Member at Google Developers Group LKO", "Web Developer","Contributor @e-boothathon04", "Open-Source Contributor","Campus Ambassador at IIT Bombay","CSE Student"],
+        typeSpeed: 20,
+        backSpeed: 10,
         loop: true
     });
 
